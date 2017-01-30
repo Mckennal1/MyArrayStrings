@@ -1,0 +1,2 @@
+# MyArrayStrings
+Example work
